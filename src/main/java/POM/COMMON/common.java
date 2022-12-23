@@ -105,7 +105,7 @@ public class common {
 				}
 
 			} catch (Exception e) {
-
+System.out.println("project end successfully");
 			}
 		}
 		return path;
